@@ -4,6 +4,8 @@
 
 
 
+[StatsBox | Economic Visualization Service](https://stats-box.com/)
+
 ## Overview
 Economic visualization service for individual investors. A service designed to help you understand the current economic landscape and support more accurate investment decisions.
 
